@@ -7,3 +7,10 @@
 6. git pull origin main (updating the files from main branch) 
 7. git push origin userbranchname
 8. sent pr from github
+
+# Extra commands 
+1. git status ( to check the status of local files)
+2. git branch ( to list the branches and see the current branch)
+3. git checkout branchname (switch to branches)
+4. git fetch --all (to fetch all the changes )
+5. git remote -v ( to see the remote url)
