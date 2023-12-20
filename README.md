@@ -14,3 +14,8 @@
 3. git checkout branchname (switch to branches)
 4. git fetch --all (to fetch all the changes )
 5. git remote -v ( to see the remote url)
+
+# creating issue branch 
+1. git checkout main (switch to main branch)
+2. git pull origin main ( pull changes from main)
+3. git checkout -b newbranchname 
